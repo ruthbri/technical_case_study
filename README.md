@@ -2,23 +2,6 @@
 
 Este proyecto es una App para Mapear datos de seguros de autos en XML. Utiliza **PHP**, **PHPUnit** para pruebas unitarias y **PHPStan** para análisis estático del código.
 
-## Contenido del archivo `TechnicalCaseStudy.zip`
-
-El archivo `TechnicalCaseStudy.zip` contiene la estructura completa del proyecto, con los siguientes directorios principales:
-
-technical_case_study/
-- assets/
-- config/
-- controllers/
-- model/
-- services/
-- tests/
-- vendor/
-- index.php
-- pipeline.sh
-- README.md
-
-
 ## Requisitos previos
 
 Antes de ejecutar el proyecto, asegúrate de contar con lo siguiente:
