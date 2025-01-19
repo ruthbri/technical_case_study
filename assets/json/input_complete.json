@@ -1,0 +1,15 @@
+{
+  "holder": "CONDUCTOR_PRINCIPAL",
+  "occasionalDriver": "SI",
+  "prevInsurance_years": 5,
+  "prevInsurance_claimsCount": 0,
+  "prevInsurance_exists": "SI",
+  "driver_birthDate": "2000-05-15",
+  "driver_licenseDate": "2018-07-20",
+  "occasionalDriver_birthDate": "1997-10-10",
+  "occasionalDriver_licenseDate": "2015-05-05",
+  "holder_sex": "",
+  "use_carUse": "DIARIO",
+  "use_kmsYear": 15000,
+  "use_postalCode": "28010"
+}
